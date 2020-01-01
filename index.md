@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Facundo Merighi
 
-You can use the [editor on GitHub](https://github.com/merighifacundo/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Extremely self-motivated Software Architect with the ability to be proactive with project execution.
+This includes 14 years of experience and passion for software development and learning new technologies as well as designing software systems
+using agile software development with systems written in Java, J2EE, Grovy on Grails, Ruby on Rails, and lately in my career focus in Frontend Architecture:
+AngularJS, VueJS, Angular, ES6, NodeJS, React & Redux, building robust solutions with continuous integration and deployment. Unit Testing and helping teams to grow in Size, Experience and Knowledge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Capable of performing the following tasks:
+a) Pre-sales giving the feasibility of a project and estimating the amount and effort needed for it.
+b) Building the team, getting the right candidates on board of a solid technical team.
+c) Building the architecture of the application.
+d) Teaching others.
+e) Interviewing candidates to check their technical level. (screening process)
+f) Consolidating the relationship with the client based on the communication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Technologies that we managed all along this 3 years:
+VueJS
+ReactJS and Redux
+NodeJS with Restify, and Swagger for backend.
+ES6
+Design Patterns
+Sass
+TFS and CI with TFS
+Hybrid Pipelines of continuous integration
+Grunt and Gulp
+Bower
+AngularJS 1.7
+Angular 4
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/merighifacundo/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In the past I been working with J2EE, grails, groovy, Rails, Sencha, ExtJS, Backbone, Symfony2 and several frameworks / languages / db from frontend and backend.
